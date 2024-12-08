@@ -7,7 +7,7 @@
 - 💬 Ask me about **Cyber Security** <del>(I am not that good)</del>
 - 😂 Fun fact: **My name was inspired by a game**
 
-Details in <a href="https://mastermind65535.github.io" target="_blank">here</a>
+Details in <a href="https://mastermind65535.github.io" target="blank">here</a>
 
 <hr>
 
