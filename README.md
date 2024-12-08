@@ -25,7 +25,8 @@
 <hr>
 
 <h1>Projects</h1>
-<a>Details in </a> [here](https://mastermind65535.github.io/)
+
+<a>Details in </a> [here](https://mastermind65535.github.io)
 
 <hr>
 
