@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently learning **Executeable Analysis & Malware Analysis**
 - 💬 Ask me about **Cyber Security** <del>(I am not that good)</del>
-- 😂 Fun fact: **My name was inspired by a game**
+- 😂 Fun fact: **My ID was inspired by the movie "Mr. Robot"**
 
 <a>Details in </a> [here](https://mastermind65535.github.io)
 
