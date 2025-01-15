@@ -3,7 +3,7 @@
 
 ![](https://komarev.com/ghpvc/?username=mastermind65535)
 
-- 🔭 I’m currently learning **Executeable Analysis & Malware Analysis * Malware Development**
+- 🔭 I’m currently learning **Executeable Analysis & Malware Analysis & Malware Development**
 - 💬 Ask me about **Cyber Security**
 - 😂 Fun fact: **My ID was inspired by the movie "Mr. Robot"**
 
