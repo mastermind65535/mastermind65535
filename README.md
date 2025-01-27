@@ -7,6 +7,8 @@
 - 💬 Ask me about **Cyber Security**
 - 😂 Fun fact: **My ID was inspired by the movie "Mr. Robot"**
 
+[HATZ Community Discord Server](https://discord.gg/frjwgaEzZ3)
+
 <a>Details in </a> [here](https://mastermind65535.github.io)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mastermind65535&theme=dark&show_icons=true&hide_border=true&layout=compact)
