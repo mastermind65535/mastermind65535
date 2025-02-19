@@ -3,7 +3,7 @@
 
 ![](https://komarev.com/ghpvc/?username=mastermind65535)
 
-- 🔭 I’m currently learning **Wireless Network Hacking**
+- 🔭 I’m currently learning **Web Hacking**
 - 💬 Ask me about **Cyber Security**
 - 😂 Fun fact: **My ID was inspired by the movie "Mr. Robot"**
 
